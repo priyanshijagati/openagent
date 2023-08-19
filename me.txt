@@ -1,5 +1,0 @@
-{{#user}}
-Name: Priyanshi Jagati
-Skills: HTML, CSS, JS, Next.js,node.js,bootstrap,react,mysql,java 
-Email: priyanshijagati1@gmail.com
-{{/user}}
